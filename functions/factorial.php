@@ -40,5 +40,6 @@
             $num = (int)$_POST['entered_number'];
             echo factorial($num);       
         ?>
+        
     </body>
 </html>
