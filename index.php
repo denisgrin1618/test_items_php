@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 
 
+
+
+
+
 <?php
-  //setcookie("name", "7", time()+3600, "/","", 0);
-  //setcookie("email", "8", time()+3600, "/", "",  0);
+  
+
+//setcookie("email", "8", time()+3600, "/", "",  0);55
   
   $pass = md5('123');
   
