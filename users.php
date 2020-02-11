@@ -9,6 +9,8 @@ function add_new_user($name, $surname, $email, $password){
     
 }
 
+
+
 $name       = $_POST['name'];
 $surname    = $_POST['surname'];
 $email      = $_POST['email'];
