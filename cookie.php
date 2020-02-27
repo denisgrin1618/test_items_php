@@ -12,6 +12,7 @@ $duration = 1200;
 // Список пользователей и паролей
 $members23 = array23(
     'Vladson'=>'123456'
+//3245
 );
  
 if ( isset($_POST['login']) && isset($_POST['username']) && isset($_POST['password']) ) {
