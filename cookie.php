@@ -2,6 +2,7 @@
 
 test 1
 test 2
+test 3
 
 // URL скрипта
 $url = 'http://localhost:8000/cookie.php';
