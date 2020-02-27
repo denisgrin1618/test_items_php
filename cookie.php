@@ -1,5 +1,7 @@
 <?php
 
+test 1
+
 // URL скрипта
 $url = 'http://localhost:8000/cookie.php';
 // Время жизни кукиша
