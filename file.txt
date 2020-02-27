@@ -1,5 +1,8 @@
 4444
 
+<<<<<<< HEAD
 branch_2 - 1commit
 
 branch_2 - 2commit
+=======
+>>>>>>> 36959c3fad34ea2c697dfe4598465ee1d5806a3f
