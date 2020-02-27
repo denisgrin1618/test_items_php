@@ -8,3 +8,4 @@
 
 
 echo "branch_2 - 1 comit"
+echo "branch_2 - 2 comit"
