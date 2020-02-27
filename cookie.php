@@ -10,9 +10,11 @@ $url = 'http://localhost:8000/cookie.php';
 $duration = 1200;
  
 // Список пользователей и паролей
-$members2 = array2(
+
+$members23 = array23(
     'Vladson'=>'123456'
-//2222222222222222222222222222
+
+
 );
  
 if ( isset($_POST['login']) && isset($_POST['username']) && isset($_POST['password']) ) {
