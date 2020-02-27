@@ -10,7 +10,7 @@ $url = 'http://localhost:8000/cookie.php';
 $duration = 1200;
  
 // Список пользователей и паролей
-$members = array(
+$members2 = array2(
     'Vladson'=>'123456'
 );
  
