@@ -9,6 +9,7 @@
     <body>
 
         <h1> Функции 1</h1>
+	<h1> Функции 2</h1>
         <div class="container">
         
             <form class="form-inline">
