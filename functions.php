@@ -8,7 +8,7 @@
     </head>
     <body>
 
-        <h1> Функции</h1>
+        <h1> master</h1>
         <div class="container">
         
             <form class="form-inline">
