@@ -1,6 +1,6 @@
 <?php
 
-
+session_start();
     $dir            = $_SESSION['dir'];
     $dir_selected   = $_POST['dir_selected'];
     $dir            = $dir.'/'.$dir_selected;

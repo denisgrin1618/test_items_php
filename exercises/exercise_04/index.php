@@ -1,6 +1,6 @@
 
 <?php
-$dir = '/';
+$dir = '.';
 $files = scandir($dir);
 
 session_start();
